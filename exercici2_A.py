@@ -3,8 +3,12 @@
 #       Els valors.
 #		Extreure l’últim item.
 
-def diccionari(edat):
-    print(edat-2023)
+def diccionari():
+    dictLaia = {'febre':'si', 'Edat':23, 'Segon cognom':'Ramos'}
+    print(len(dictLaia))
+    print(dictLaia.values())
+    print(dictLaia.popitem())
+    print(dictLaia.values())
 
 #CRIDO LA FUNCIO diccionari
 diccionari()
