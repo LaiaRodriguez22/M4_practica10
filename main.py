@@ -1,0 +1,1 @@
+#En aquest arxiu cada integrant hi posarà la trucada a la seva funció.
