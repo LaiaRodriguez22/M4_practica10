@@ -1,7 +1,8 @@
 #En aquest arxiu cada integrant hi posarà la trucada a la seva funció.
 
-#Integrante B - Alex Navarro
+#INTEGRANT A - LAIA RODRIGUEZ RAMOS
+import exercici1_A
+import exercici2_A
 
-import exercici1_B as ex1_B
+#INTEGRANT B - ALEX NAVARRO RODRIGUEZ
 
-print(ex1_B.calcAño(42))
