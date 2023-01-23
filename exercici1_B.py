@@ -3,3 +3,6 @@
 def calcAño(año):
     return 2023 - año
 
+
+print (calcAño(24))
+
