@@ -2,3 +2,9 @@
 #       La longitud del diccionari.
 #       Els valors.
 #		Extreure l’últim item.
+
+def diccionari(edat):
+    print(edat-2023)
+
+#CRIDO LA FUNCIO diccionari
+diccionari()
